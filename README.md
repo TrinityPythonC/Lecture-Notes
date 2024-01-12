@@ -1,2 +1,2 @@
 # Notes
-Lecture Notes and Python and C++
+Lecture Notes for Python and C++
